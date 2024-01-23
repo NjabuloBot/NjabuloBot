@@ -2,9 +2,11 @@
   * Born in South Africa
   * Technology enthusiastic
   * Blog writer and Content creator
-- Carrer & Other fun stuff
+- Career & Other fun stuff
   * Co-founder of Dbug
+  * Software engineer graduate
   * ~ Over 100,000 views across all Social media plartforms
+  * ~ Search "iamnjabulo" everywhere
 
 <!---
 NjabuloBot/NjabuloBot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
