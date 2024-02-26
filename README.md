@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Njabulo</h1>
-<h3 align="center">Passionate Software Developer from South Africa</h3>
+<h3 align="center">Passionate Software Developer</h3>
 
 - 🔭 I’m currently working on [Library-Mananngement-System](https://github.com/NjabuloBot/Library-Mananement-System.git)
 
